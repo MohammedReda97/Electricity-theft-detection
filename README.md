@@ -22,3 +22,6 @@ This dataset contains the electricity consumption data of 42,372 electricity cus
 * seaborn
 * pandas
 * matplotlib
+
+# Medium post 
+https://medium.com/@mohamed.reda3327/electricity-theft-detection-using-cnn-91c7377c6a80
