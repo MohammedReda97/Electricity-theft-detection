@@ -2,7 +2,7 @@
 Here we will implement supervised learning to detect abnormal users using CNN
 # Introduction
 
-Here we are tring to do anomaly detection for electricty consumption because manual detection is verry deficult and consume time and money 
+Here we are tring to do anomaly detection for electricity consumption because manual detection is very difficult and consume time and money 
 
 # Data-set
 
